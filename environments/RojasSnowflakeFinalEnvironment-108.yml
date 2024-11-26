@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "108"
+mappingDefinitions:
+  SRC:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  TARGET:
+    database: ROJA_PREV_QA
+    schema: RB_ENVIRONMENT
+name: Roja's Snowflake Final Environment
+type: Environment
